@@ -5,7 +5,7 @@ import java.util.*;
 
 public class GrafoLista {
 	
-    String[] adicionar;
+    private String[] adicionar;
     private HashMap<String, ArrayList<String>> vertices = new HashMap<>();
     
     public GrafoLista(String[] adicionar) {
