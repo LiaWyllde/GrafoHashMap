@@ -25,8 +25,5 @@ public class GrafoLista {
 		return vertices;
 	}
 
-	public void setVertices(HashMap<String, ArrayList<String>> vertices) {
-		this.vertices = vertices;
-	}
 }
 
